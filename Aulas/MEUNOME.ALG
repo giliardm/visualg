@@ -1,0 +1,10 @@
+Algoritmo "MEUNOME"
+
+Var
+NOME: CARACTERE
+Inicio
+NOME <- "GILIARD"
+ESCREVA ("DIGITE SEU NOME: ")
+LEIA (NOME)
+ESCREVA ("MUITO PRAZER ", NOME)
+Fimalgoritmo
