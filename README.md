@@ -12,3 +12,12 @@ Valor Pizza R$ 10.90 Valor Refri R$ 4.90 Percentual Garçom 10%, do valor da con
 Todo o projeto está sendo projeto, com base no aprendizado em algoritmos, para melhorar a lógica de desenvolvimento, e implementação de novas funcionalidades,
 
 Lembre-se sempre, Todo mundo começa do primeiro degrau, então as lógicas aqui aplicadas, tambem podem ser ultizadas em programas mais atuais e mais alem <3
+
+
+
+
+
+
+
+
+
